@@ -30,10 +30,18 @@ function navigateToProductInfo(index) {
     document.getElementById("products").innerHTML = '';
 
 
-    // let product = document.getElementById("product");
-    // product.style.display = "block"
+    let html = ""
+    html += "<div class='card'>" + "<p class= 'mb-3'>" +
+    "<img class=' imgCard' style=' background-size:cover;margin-top: 54px ;width:450px; height: 303px' src= " + productObject.image + ">" +
+    
+       "<br>" + "رنگ:" + " " + productObject.details.color +   
+       "<br>" + "سایز:" + " " + productObject.details.size +   
+       "<br>" + "قیمت:" + " " + productObject.price + "</p>" +
+ 
+  "</div>"
 
-    document.getElementById("productInfo").innerHTML = productObject.details.size;
+
+    document.getElementById("productInfo").innerHTML = html;
 
     document.getElementById('productName').innerHTML = productObject.name
 }
