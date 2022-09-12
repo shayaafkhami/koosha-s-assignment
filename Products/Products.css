@@ -24,9 +24,9 @@ h1 {
 
 
 
-.row gy-5 {
-    width: 210px;
-    height: 210px;
+.cardSize {
+    width: 283px;
+    height: 365px;
     font-family: 'IRANYekan';
 
 
@@ -65,8 +65,8 @@ h1 {
 }
 
 
-    body {
-        font-family: 'IRANYekan';
-        direction: rtl;
-    
-    }
+body {
+    font-family: 'IRANYekan';
+    direction: rtl;
+
+}
