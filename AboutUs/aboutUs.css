@@ -1,0 +1,37 @@
+h1 {
+    position: absolute;
+    width: 161px;
+    height: 8px;
+    left: 1157px;
+    top: 14px;
+    font-family: 'IRANYekan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 83px;
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #404041;
+}
+
+p {
+    position: absolute;
+    width: 1196px;
+    height: 171px;
+    margin-left: 122px;
+    margin-top: 250px;
+    font-family: 'IRANYekan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #404041;
+
+}

@@ -1,0 +1,72 @@
+body {
+    font-family: 'IRANYekan';
+    color: #404041;
+}
+
+
+
+.container overflow-hidden text-center {
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: 103px;
+    margin-top: 25px;
+    margin-bottom: 254px;
+    margin-right: 123px;
+    border: 1px solid #C4C4C4;
+    border-radius: 15px;
+}
+
+
+
+h1 {
+    margin-right: 60px;
+}
+
+
+
+.row gy-5 {
+    width: 210px;
+    height: 210px;
+    font-family: 'IRANYekan';
+
+
+}
+
+
+
+.productInfo {
+    height: 56px;
+    width: 2350px;
+    border-radius: nullpx;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #404041;
+    font-family: 'IRANYekan';
+}
+
+
+.productPrice {
+    width: 90px;
+    height: 35px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #404041;
+    font-family: 'IRANYekan';
+}
+
+
+    body {
+        font-family: 'IRANYekan';
+        direction: rtl;
+    
+    }

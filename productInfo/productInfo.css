@@ -1,0 +1,44 @@
+
+
+.productInfo-img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1196px;
+    height: 351px;
+    left: 121px;
+    top: 251px;
+    border: 1px solid #C4C4C4;
+    border-radius: 15px;
+}
+
+.product-img {
+    position: right;
+    width: 303px;
+    height: 303px;
+    margin-left: 990px;
+    margin-right: 147px;
+    margin-top: 275px;
+    margin-bottom: 291;
+    display: inline;
+    padding: 24px;
+
+}
+
+.info {
+position: left;
+    width: 166px;
+    height: 31px;
+    margin-left: 728px;
+    margin-top: 339px;
+    font-family: 'IRANYekan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #404041;
+    display: inline;
+}
